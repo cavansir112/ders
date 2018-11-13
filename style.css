@@ -94,7 +94,10 @@ img {
   width: 130px;
   height: 45px;
   background-color: #3F51B5;
-
+}
+.center1 button i{
+  font-size: 18px;
+  margin-right: 7px;
 }
 .center1 button:hover{
   background-color: #3F51B5;
@@ -111,7 +114,7 @@ img {
 }
 .container1 .color5 i{
   font-size: 30px;
-  margin: 8px 0px;
+  margin: 8px 10px;
   color: #3F51B5;
 }
 .container1 .footer1{
@@ -121,13 +124,13 @@ img {
   text-align: center;
   height: 90px;
   background-color: #303F9F;
-  margin-bottom: -40px;
+  margin-bottom:-25px;
 }
 .container1 .footer1 i{
   font-size: 20px;
   color:white;
   font-weight: 500;
-  margin: 0px 16px;
+  margin: 20px 16px;
 }
 .container1 .footer2 p{
   color:#728C98;
@@ -143,6 +146,7 @@ img {
   height: 50px;
   background-color: rgb(42, 51, 96) !important;
   margin-top: 25px;
+  margin-bottom: 0;
 }
 .fadeIn1 h2{
   font-size: 40px;
